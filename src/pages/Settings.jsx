@@ -1,7 +1,7 @@
 import { Download, RotateCcw, Trash2 } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import { Badge } from '../components/ui/Badge';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/button';
 import { Modal } from '../components/ui/Modal';
 import { PageHeader } from '../components/ui/PageHeader';
 import useFinflowStore from '../store/useFinflowStore';

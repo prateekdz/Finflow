@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Button } from './Button';
+import { Button } from './button';
 
 export function EmptyState({ icon: Icon, title, description, action }) {
   return (

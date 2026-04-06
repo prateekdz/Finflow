@@ -6,7 +6,7 @@ import { useInsights } from '../hooks/useInsights';
 import { useInitialLoad } from '../hooks/useInitialLoad';
 import useFinflowStore from '../store/useFinflowStore';
 import { formatCurrency } from '../utils/formatCurrency';
-import { Skeleton } from '../components/ui/Skeleton';
+import { Skeleton } from '../components/ui/skeleton';
 
 const rangeOptions = [
   { value: 'month', label: 'This Month' },
