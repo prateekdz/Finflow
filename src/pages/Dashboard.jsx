@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useMemo, useState } from 'react';
 import { TickerBar } from '../components/layout/TickerBar';
 import { Badge } from '../components/ui/Badge';
-import { Skeleton } from '../components/ui/Skeleton';
+import { Skeleton } from '../components/ui/skeleton';
 import { SummaryCard } from '../components/ui/SummaryCard';
 import { ProgressBar } from '../components/ui/ProgressBar';
 import { BalanceTrendChart } from '../components/charts/BalanceTrendChart';

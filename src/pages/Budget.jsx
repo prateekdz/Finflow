@@ -1,7 +1,7 @@
 import { AlertTriangle, Pencil } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import { Badge } from '../components/ui/Badge';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/button';
 import { PageHeader } from '../components/ui/PageHeader';
 import { ProgressBar } from '../components/ui/ProgressBar';
 import { useTransactions } from '../hooks/useTransactions';

@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { CalendarClock, Pencil, Repeat, Trash2 } from 'lucide-react';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/button';
 import { EmptyState } from '../components/ui/EmptyState';
 import { Modal } from '../components/ui/Modal';
 import useFinflowStore from '../store/useFinflowStore';
