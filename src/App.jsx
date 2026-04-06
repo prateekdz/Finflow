@@ -7,7 +7,7 @@ import { Topbar } from './components/layout/Topbar';
 import { BackToTop } from './components/ui/BackToTop';
 import { ErrorBoundary } from './components/ui/ErrorBoundary';
 import { PageWrapper } from './components/ui/PageWrapper';
-import { Skeleton } from './components/ui/Skeleton';
+import { Skeleton } from './components/ui/skeleton';
 import { Toast } from './components/ui/Toast';
 import useFinflowStore from './store/useFinflowStore';
 
