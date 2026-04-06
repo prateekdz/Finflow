@@ -31,19 +31,19 @@ This project demonstrates a production-ready frontend architecture with:
 ## 🖼️ Screenshots
 
 ### Dashboard
-![Dashboard Light](./screenshots/dashboard-light.svg)
+![Dashboard Light](./screenshots/dashboard-light.png)
 
 ### Dashboard Dark
-![Dashboard Dark](./screenshots/dashboard-dark.svg)
+![Dashboard Dark](./screenshots/dashboard-dark.png)
 
 ### Transactions
-![Transactions](./screenshots/transactions.svg)
+![Transactions](./screenshots/transactions.png)
 
 ### Budget
-![Budget](./screenshots/budget.svg)
+![Budget](./screenshots/budget.png)
 
 ### Goals
-![Goals](./screenshots/goals.svg)
+![Goals](./screenshots/goals.png)
 
 ---
 
